@@ -1,0 +1,141 @@
+images x +
+© New » o ff @
+€ > YD BBP logger > Images
+
+( L Downloads #
+
+11680359116.2781
+549.png_
+
+1600361290 8227
+Network
+= “Bpng
+Y Bix logger
+i it
+‘64items |
+
+soptcion TeaBor. “Fuutetapp) COMP
+
+Boe
+acai
+11680361351.0913
+
+1680361087.5052
+822,png
+
+Boye
+scaktL
+11680361411.3695
+
+al |
+1603607461247
+
+ol
+corey
+1680361471.6286
+
+1620361168.6621
+234png
+
+pa (ae
+
+1620361531.9376
+233,png
+
+\ BREAKPOINTS
+Raised Exceptions
+i Uncaught Exceptions
+
+ey Oe
+1680361229,7485
+745.png
+
+_ — — — a
+sk Manager lal r, OF ~ a) ~
+gy, BE Task Manag Q Type a name, publisher, or PID to s. mo
+Performance E® Run new task oe
+yw>¢
+i. cpu CPU .
+20% 3.73 GHz Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz a
+seutization 100%
+Memory
+6.4/7.9 GB (81%)
+Disk 0 (0) ra
+me.s] 09 DD
+al Aout. 0%
+Disk 1 (C:)
+a =
+Ethernet
+Fthernet’3
+5.160 R 720 Kbps 60 seconds o
+Utiiztion 5 Eos 1.80 GH
+y ia 20% 373GHz cu
+}| Intel(R) UHD Grap... 7 Cores: 4
+oe 17% Processes Threads Handles Logical processors: 8
+i ew 290 3458 130272 Viruolcatio: Enabled
+lignes 256 KB
+NVIDIA GeForce Ma. i
+mr 36% (65°C) Gina L2 cache: 1.0 MB
+@ 0:05:53:15 B cache: 6.0 MB
+
+# for texts in docs
+# write each element in my list to file
+f.write(texts)
+nrint(#ile)
+
+OUTPUT TERMINAL DEBUG CONSOLE
+
+in thread Thread-6 (infiniteloop1):
+
+(most recent call last):
+
+:\Program Files\Python310\lib\threading.py”, line 1089, in _bootstrap_inner
+
+sun()
+
+;\Program Files\Python31@\lib\threading.py”, line 946, in run
+
+target (*self._args, **self._kwargs)
+
+ \Users\91704\Desktop\logger\key\screen.pyw", line 65, in infiniteloop1
+
+pyautogui .screenshot("C: \\Tempshots\\Screenshot_"+str(count)+".png”)
+
++ \Users\91704\AppData\Roaming\Python\Python310\site-packages\pyscreeze\_init__.py", line 145, in wrap
+
+) wrappedFunction(*args, **kwargs)
+\Users\91704\AppData\Roaming\Python \Python310\site-packages\pyscreeze\_in:
+
+py", Line 457, in _scr
+
+eenshot_win32
+im = ImageGrab.grab()
+
+File
+
+\\Users \91704\AppData\Roaming\Python\Python310\site-packages\PIL\ImageGrab.py”, line 47, in grab
+
+offset, size, data = Image.core.grabscreen_win32(
+
+i
+
+Compiler Terminal
+Compiler Terminal
+Compiler Terminal
+38 Python Debug Console
+Compiler Terminal
+
+Compiler Terminal
+Compiler Terminal
+Compiler Terminal
+Compiler Terminal
+3 Python Debug Console
+
+OsError: screen grab failed
+User Uncaught Excepti... it
+BOAO DP vthon: Curent File kev) PlveShae aT LT Snare LITER CRIF CR Pvthon 2100 6abit OR
+
+PSs@mGOOPCoecervrzars a= @
+
+Q Search
+
